@@ -1,16 +1,21 @@
 <div align="center">
+<img src="https://www.michaelsagbo.tech/assets/michael-sagbo.jpeg" width="140" height="140" style="border-radius:50%;object-fit:cover;" alt="Michael M.C. SAGBO" />
 
 # Michael M.C. SAGBO
 
-### Développeur Full Stack & Backend Lead — Cotonou, Bénin
+**Développeur Full Stack & Backend Lead** · Cotonou, Bénin
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-michaelsagbo.tech-000000?style=flat-square)](https://michaelsagbo.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-michaelsagbo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelsagbo)
-[![GitHub](https://img.shields.io/badge/GitHub-SAGBO4-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SAGBO4)
+<sub>Next.js · Nest.js · Vue.js · Python · Web3</sub>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-michaelsagbo.tech-050303?style=for-the-badge)](https://michaelsagbo.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelsagbo)
+[![GitHub](https://img.shields.io/badge/GitHub-050303?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAGBO4)
 
 </div>
 
----
+<br/>
 
 ## Profil
 
@@ -19,6 +24,7 @@ scalables et à haute disponibilité, des passerelles de paiement Web3/crypto d�
 des applications web temps réel avec des APIs haute performance. Approche de bout en bout, du
 frontend au backend jusqu'à l'infrastructure.
 
+**Formation :** Coding Academy by Epitech · IFRI-UAC (Institut de Formation et de Recherche en Informatique)
 **Disponibilité :** ouvert à de nouvelles opportunités et collaborations.
 
 ---
@@ -86,6 +92,8 @@ frontend au backend jusqu'à l'infrastructure.
 
 <div align="center">
 
-**Contact :** [michaelsagbo.tech](https://michaelsagbo.tech) · [LinkedIn](https://linkedin.com/in/michaelsagbo) · [GitHub](https://github.com/SAGBO4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-michaelsagbo.tech-050303?style=for-the-badge)](https://michaelsagbo.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelsagbo)
+[![GitHub](https://img.shields.io/badge/GitHub-050303?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAGBO4)
 
 </div>
