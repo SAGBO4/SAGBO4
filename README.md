@@ -1,99 +1,40 @@
-<div align="center">
-<img src="https://www.michaelsagbo.tech/assets/michael-sagbo.jpeg" width="140" height="140" style="border-radius:50%;object-fit:cover;" alt="Michael M.C. SAGBO" />
+<p align="center">
+  <img src="https://www.michaelsagbo.tech/assets/michael-sagbo.jpeg" width="120" height="120" style="border-radius:50%;object-fit:cover;" alt="Michael M.C. SAGBO" />
+</p>
 
-# Michael M.C. SAGBO
+**Michael M.C. SAGBO** · Développeur Full Stack & Backend Lead · Next.js, Nest.js, Vue.js, Python, Web3 · Cotonou, Bénin · Remote
 
-**Développeur Full Stack & Backend Lead** · Cotonou, Bénin
+Je conçois et déploie des produits web de bout en bout, de l'API à la production : architectures distribuées scalables, passerelles de paiement Web3/crypto décentralisées, et applications temps réel avec des APIs haute performance.
 
-<sub>Next.js · Nest.js · Vue.js · Python · Web3</sub>
+Je suis actuellement **ouvert aux missions remote et freelance**.
 
-<br/>
+<p>
+  <a href="https://michaelsagbo.tech"><img src="https://img.shields.io/badge/Portfolio-050303?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:contact@michaelsagbo.tech"><img src="https://img.shields.io/badge/Email-050303?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/michaelsagbo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-michaelsagbo.tech-050303?style=for-the-badge)](https://michaelsagbo.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelsagbo)
-[![GitHub](https://img.shields.io/badge/GitHub-050303?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAGBO4)
+## Dépôts publics
 
-</div>
-
-<br/>
-
-## Profil
-
-Développeur Full Stack & Backend Lead basé à Cotonou. Je conçois des architectures distribuées
-scalables et à haute disponibilité, des passerelles de paiement Web3/crypto décentralisées, et
-des applications web temps réel avec des APIs haute performance. Approche de bout en bout, du
-frontend au backend jusqu'à l'infrastructure.
-
-**Formation :** Coding Academy by Epitech · IFRI-UAC (Institut de Formation et de Recherche en Informatique)
-**Disponibilité :** ouvert à de nouvelles opportunités et collaborations.
-
----
-
-## En Production
-
-| Projet | Description | Stack |
-|---|---|---|
-| [FreeAi](https://github.com/SAGBO4/FreeAi) | Plateforme d'IA souveraine et frugale (zéro-disque, RAM pure) avec orchestrateur multi-agents, TUI Textual plein écran, essaim multi-modèles cloud (AETHER-SWARM) et bot Telegram Jarvis 24/7. Développement actif sur la branche `dev`. | Python, Textual, orchestration multi-agents |
-| [SAGBO4.github.io](https://github.com/SAGBO4/SAGBO4.github.io) | Portfolio personnel statique. | HTML/CSS/JS |
-| [chatbot](https://github.com/SAGBO4/chatbot) | Agent conversationnel. | Python |
-
----
-
-## Dépôts Publics
-
-| Dépôt | Description | Stack |
-|---|---|---|
-| [ci-cd](https://github.com/SAGBO4/ci-cd) | Expérimentations et configuration de pipelines CI/CD. | Vue |
-| [useful_api_michael.sagbo](https://github.com/SAGBO4/useful_api_michael.sagbo) | API utilitaire. | Laravel (Blade) |
-| [test_dashbord](https://github.com/SAGBO4/test_dashbord) | Tableau de bord de test. | JavaScript |
-| [dev-tool](https://github.com/SAGBO4/dev-tool) | Outil pour le développement. | TypeScript |
-
----
+- [**FreeAi**](https://github.com/SAGBO4/FreeAi) : plateforme d'IA souveraine et frugale (zéro-disque, RAM pure), orchestrateur multi-agents, TUI Textual plein écran, essaim multi-modèles cloud. Projet personnel principal, développement actif. Python, Textual.
+- [**dev-tool**](https://github.com/SAGBO4/dev-tool) : la toute première version de FreeAi. TypeScript.
+- [**chatbot**](https://github.com/SAGBO4/chatbot) : le bot Telegram d'un wallet crypto (Stack Wallet). Python.
+- [**SAGBO4.github.io**](https://github.com/SAGBO4/SAGBO4.github.io) : portfolio personnel statique. HTML/CSS/JS.
+- [**useful_api_michael.sagbo**](https://github.com/SAGBO4/useful_api_michael.sagbo) : API utilitaire. Laravel (Blade).
+- [**ci-cd**](https://github.com/SAGBO4/ci-cd) : expérimentations de pipelines CI/CD. Vue.
+- [**test_dashbord**](https://github.com/SAGBO4/test_dashbord) : tableau de bord de visualisation et d'analyse de données. JavaScript.
 
 ## Stack
 
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Données & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**APIs & Web3**
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
-![Crypto Payment Gateways](https://img.shields.io/badge/Crypto_Payment_Gateways-8247E5?style=flat-square)
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nestjs,nodejs,nextjs,react,vue,postgres,supabase,docker,laravel,python&perline=8" alt="TypeScript, NestJS, Node.js, Next.js, React, Vue, PostgreSQL, Supabase, Docker, Laravel, Python" />
+</p>
 
 ## Comment je travaille
 
-- **Tests avant livraison** — un système n'est considéré fonctionnel qu'une fois testé, pas une fois écrit.
-- **Validation par la preuve** — je documente ce qui est réellement connecté et ce qui reste simulé ; pas d'état aspirationnel présenté comme acquis.
-- **Déploiement progressif** — développement sur branches dédiées, intégration continue, mise en production uniquement après validation.
-- **Architecture distribuée pensée pour la disponibilité** — conception de systèmes scalables et résilients dès la base, pas en rattrapage.
+- **Je documente ce qui est réel.** Ce qui est réellement connecté est distingué de ce qui reste simulé, pas d'état aspirationnel présenté comme acquis.
+- **Je teste avant de livrer.** Un système n'est considéré fonctionnel qu'une fois testé, pas une fois écrit.
+- **Je déploie ce que je construis.** Branches dédiées, intégration continue, mise en production uniquement après validation.
+- **L'IA m'accélère, je reste exigeant.** J'utilise Claude Code au quotidien ; chaque changement reste revu et testé avant de partir.
 
----
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-michaelsagbo.tech-050303?style=for-the-badge)](https://michaelsagbo.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelsagbo)
-[![GitHub](https://img.shields.io/badge/GitHub-050303?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAGBO4)
-
-</div>
+Le français est ma langue de travail, j'écris l'anglais professionnellement. Basé à Cotonou, Bénin (GMT+1), même heure que Paris en hiver.
